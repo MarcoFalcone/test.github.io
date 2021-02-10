@@ -1,5 +1,3 @@
-# test.github.io
-
-Dev Test & Projects showcase
+# Dev Test & Projects showcase
 
 https://marcofalcone.github.io/test.github.io/
